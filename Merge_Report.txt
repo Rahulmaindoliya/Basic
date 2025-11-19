@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+This line is for Main Branches
+=======
 
 This line is for TEAM_1
+>>>>>>> 850bb2e5dc8b7ad304068f505b30e8fdc18701f7
